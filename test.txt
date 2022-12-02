@@ -1,6 +1,6 @@
 here is a file
 change 1
 change 2
-
+this is a change
 change 3
 
